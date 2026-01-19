@@ -1,5 +1,16 @@
 # @backstage/cli
 
+## 0.35.2
+
+### Patch Changes
+
+- 320c6a9: Bump `@swc/core` to support `ES2023` and `ES2024`
+- 140cbc2: Added `@backstage/backend-test-utils` to backend package templates.
+- 4eeba9e: Upgrade `zod-validation-error` to version 4
+- 9ee5996: Bump minimum required `@swc/core` to avoid transpilation bug
+- Updated dependencies
+  - @backstage/integration@1.19.2
+
 ## 0.35.2-next.1
 
 ### Patch Changes

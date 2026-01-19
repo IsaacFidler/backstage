@@ -1,5 +1,31 @@
 # @backstage/plugin-scaffolder-backend
 
+## 3.1.1
+
+### Patch Changes
+
+- 5012852: Remove unused abort controller in debug:wait action
+- 872eb91: Upgrade `zod-to-json-schema` to latest version
+- Updated dependencies
+  - @backstage/backend-defaults@0.15.0
+  - @backstage/integration@1.19.2
+  - @backstage/backend-openapi-utils@0.6.5
+  - @backstage/plugin-scaffolder-backend-module-github@0.9.4
+  - @backstage/plugin-auth-node@0.6.11
+  - @backstage/plugin-scaffolder-backend-module-azure@0.2.17
+  - @backstage/plugin-permission-common@0.9.4
+  - @backstage/plugin-permission-node@0.10.8
+  - @backstage/plugin-scaffolder-node@0.12.3
+  - @backstage/plugin-bitbucket-cloud-common@0.3.6
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.2.16
+  - @backstage/plugin-scaffolder-backend-module-bitbucket@0.3.18
+  - @backstage/plugin-scaffolder-backend-module-bitbucket-cloud@0.3.1
+  - @backstage/plugin-scaffolder-backend-module-bitbucket-server@0.2.17
+  - @backstage/plugin-scaffolder-backend-module-gerrit@0.2.17
+  - @backstage/plugin-scaffolder-backend-module-gitea@0.2.17
+  - @backstage/plugin-scaffolder-backend-module-gitlab@0.11.1
+  - @backstage/plugin-scaffolder-common@1.7.5
+
 ## 3.1.1-next.2
 
 ### Patch Changes

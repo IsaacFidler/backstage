@@ -1,5 +1,13 @@
 # @backstage/plugin-search-backend-module-techdocs
 
+## 0.4.10
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs-node@1.14.0
+  - @backstage/plugin-permission-common@0.9.4
+
 ## 0.4.10-next.0
 
 ### Patch Changes

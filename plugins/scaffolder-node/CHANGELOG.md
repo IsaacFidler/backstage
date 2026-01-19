@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-node
 
+## 0.12.3
+
+### Patch Changes
+
+- 872eb91: Upgrade `zod-to-json-schema` to latest version
+- Updated dependencies
+  - @backstage/integration@1.19.2
+  - @backstage/plugin-permission-common@0.9.4
+  - @backstage/plugin-scaffolder-common@1.7.5
+
 ## 0.12.3-next.0
 
 ### Patch Changes

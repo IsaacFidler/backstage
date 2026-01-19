@@ -1,5 +1,11 @@
 # @backstage/plugin-app-node
 
+## 0.1.41
+
+### Patch Changes
+
+- 9ccf84e: Updated plugin metadata.
+
 ## 0.1.40
 
 ### Patch Changes

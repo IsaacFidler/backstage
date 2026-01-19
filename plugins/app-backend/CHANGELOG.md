@@ -1,5 +1,14 @@
 # @backstage/plugin-app-backend
 
+## 0.5.10
+
+### Patch Changes
+
+- 9ccf84e: Updated plugin metadata.
+- Updated dependencies
+  - @backstage/plugin-app-node@0.1.41
+  - @backstage/plugin-auth-node@0.6.11
+
 ## 0.5.9
 
 ### Patch Changes
